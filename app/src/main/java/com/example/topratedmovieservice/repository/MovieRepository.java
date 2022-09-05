@@ -21,7 +21,6 @@ public class MovieRepository {
                     movieLiveData.postValue(model);
                 }
             }
-
             @Override
             public void onFailure(Call<MovieModel> call, Throwable t) {
                 Log.e("RetrofitExample", "onFailure: "+t.getLocalizedMessage());

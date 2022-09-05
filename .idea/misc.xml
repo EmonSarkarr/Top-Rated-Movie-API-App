@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/ANDROID PROJECTS/Movie Service API/app/src/main/res/layout/fragment_emon.xml" value="0.38697916666666665" />
         <entry key="..\:/ANDROID PROJECTS/Movie Service API/app/src/main/res/layout/fragment_movie_list.xml" value="0.38697916666666665" />
+        <entry key="..\:/ANDROID PROJECTS/Movie Service API/app/src/main/res/layout/fragment_movie_list2.xml" value="0.38697916666666665" />
+        <entry key="..\:/ANDROID PROJECTS/Movie Service API/app/src/main/res/layout/movie_row.xml" value="0.38697916666666665" />
       </map>
     </option>
   </component>
